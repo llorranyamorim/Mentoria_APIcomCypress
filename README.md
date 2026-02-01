@@ -15,7 +15,7 @@ Atualmente, estou testando as seguintes funcionalidades da API da **https://api.
 
 ## Estrutura do Repositório
 
-[PASTA E2E](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/E2E): Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
+**[PASTA E2E](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/E2E)**: Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
 - **Evidências de teste**: Contém prints de testes
 
 ## Como Rodar os Testes
