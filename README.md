@@ -6,7 +6,7 @@ Ao longo deste repositório, você encontrará diversos exemplos e implementaç�
 
 ## Objetivo
 
-O objetivo deste repositório é servir como um ambiente de estudo e prática, onde eu posso aplicar o que estou aprendendo na mentoria de automação de API, especialmente usando o Cypress. Aqui, serão registrados os avanços, as metodologias aplicadas e os resultados de cada etapa de aprendizado.
+Aqui, serão registrados os avanços, as metodologias aplicadas e os resultados de cada etapa de aprendizado.
 
 Atualmente, estou testando as seguintes funcionalidades da API da **https://api.restful-api.dev/**:
 
@@ -15,7 +15,7 @@ Atualmente, estou testando as seguintes funcionalidades da API da **https://api.
 
 ## Estrutura do Repositório
 
-- **E2E**: Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
+[PASTA E2E](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/E2E): Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
 - **Evidências de teste**: Contém prints de testes
 
 ## Como Rodar os Testes
@@ -32,3 +32,4 @@ Atualmente, estou testando as seguintes funcionalidades da API da **https://api.
 3. Iniciar Cypress para configurar - npx cypress open
 4. Criar arquivo de testes
 5. Criar cenários (estrutura do arquivo de testes)
+
