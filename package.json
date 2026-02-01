@@ -1,0 +1,23 @@
+{
+  "name": "mentoria_apicomcypress",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para mostrar o avanço dos meus estudos como QA e a aplicação prática dos conceitos aprendidos nas aulas da mentoria (qazando) sobre automação de APIs utilizando o Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llorranyamorim/Mentoria_APIcomCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llorranyamorim/Mentoria_APIcomCypress/issues"
+  },
+  "homepage": "https://github.com/llorranyamorim/Mentoria_APIcomCypress#readme",
+  "dependencies": {
+    "cypress": "^15.9.0"
+  }
+}

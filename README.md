@@ -1,1 +1,34 @@
-# Mentoria---Automa-o-de-API-com-Cypress
+# Automação de API com Cypress
+
+Este repositório foi criado para mostrar o avanço dos meus estudos como QA e a aplicação prática dos conceitos aprendidos nas aulas da mentoria (qazando) sobre automação de APIs utilizando o Cypress.
+
+Ao longo deste repositório, você encontrará diversos exemplos e implementações de testes automatizados de APIs, usando o Cypress, com o intuito de demonstrar minhas habilidades em garantir a qualidade de sistemas de forma eficiente e prática. O foco principal é a automação de testes de APIs, algo fundamental para a melhoria contínua da qualidade e estabilidade de sistemas.
+
+## Objetivo
+
+O objetivo deste repositório é servir como um ambiente de estudo e prática, onde eu posso aplicar o que estou aprendendo na mentoria de automação de API, especialmente usando o Cypress. Aqui, serão registrados os avanços, as metodologias aplicadas e os resultados de cada etapa de aprendizado.
+
+Atualmente, estou testando as seguintes funcionalidades da API da **https://api.restful-api.dev/**:
+
+- **Cadastro de Dispositivo**: Enviar requisições `POST` para criar novos dispositivos.
+- **Busca de Dispositivos**: Enviar requisições `GET` para buscar dispositivos cadastrados.
+
+## Estrutura do Repositório
+
+- **E2E**: Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
+- **Evidências de teste**: Contém prints de testes
+
+## Como Rodar os Testes
+
+### Pré-requisitos
+
+- Node.js instalado (versão 14 ou superior).
+- VSCode: https://code.visualstudio.com/Download
+
+### Passos - Criar passta e abrir no VSCode
+
+1. Criar projeto - npm init -y
+2. Instalar Cypress -npm install cypress
+3. Iniciar Cypress para configurar - npx cypress open
+4. Criar arquivo de testes
+5. Criar cenários (estrutura do arquivo de testes)
