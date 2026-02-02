@@ -23,7 +23,7 @@ describe('Cadastrar dispositivos', () => {
             expect(resposta.body.id).not.to.empty
             expect(resposta.body.createdAt).not.to.empty
             expect(resposta.body.name).to.equal(payload.name)
-            
+
     });
 
 });
