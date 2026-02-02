@@ -13,7 +13,7 @@ Atualmente, estou testando as seguintes funcionalidades da API da **https://api.
 
 ## Resultado
 
-**[PASTA E2E](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/E2E)**: Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
+**[Pasta E2E](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/E2E)**: Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
 
 **[Evidências de teste](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/Evidencia_de_teste)**: Contém os resultados de teste
 
