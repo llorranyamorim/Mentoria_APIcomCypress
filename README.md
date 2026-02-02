@@ -16,20 +16,5 @@ Atualmente, estou testando as seguintes funcionalidades da API da **https://api.
 ## Estrutura do Repositório
 
 **[PASTA E2E](https://github.com/llorranyamorim/Mentoria_APIcomCypress/tree/main/cypress/E2E)**: Contém os testes automatizados para diferentes endpoints e funcionalidades de APIs.
-- **Evidências de teste**: Contém prints de testes
 
-## Como Rodar os Testes
-
-### Pré-requisitos
-
-- Node.js instalado (versão 14 ou superior).
-- VSCode: https://code.visualstudio.com/Download
-
-### Passos - Criar passta e abrir no VSCode
-
-1. Criar projeto - npm init -y
-2. Instalar Cypress -npm install cypress
-3. Iniciar Cypress para configurar - npx cypress open
-4. Criar arquivo de testes
-5. Criar cenários (estrutura do arquivo de testes)
 
